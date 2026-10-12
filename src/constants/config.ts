@@ -1,4 +1,4 @@
-export const API_KEY = '57960865-d70cc9220efeeca042100d5b0'
+export const API_KEY = ''
 
 
 export const CATEGORIES = [
